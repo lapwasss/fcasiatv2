@@ -43,7 +43,7 @@ section:last-of-type {
 }
 
 .navbar-nav li.active a {
-    background: #f06;
+    background: #673ab7;
     color: #fff !important;
 }
 
@@ -86,13 +86,13 @@ section:last-of-type {
 }
 
 .btn-theme {
-    background-color: #f06;
-    border: 1px solid rgb(255, 20, 147);
+    background-color: #673ab7;
+    border: 1px solid #673ab7;
     color: #fff;
 }
 
 .color-theme {
-    color: #f06;
+    color: #673ab7;
 }
 
 #home-slides {
